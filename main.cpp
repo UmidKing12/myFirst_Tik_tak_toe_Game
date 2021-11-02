@@ -32,7 +32,7 @@ int main() {
 		input();
 
 		if (breaker == 9) {
-			cout << "\t+++ Ta3adul +++" << endl << endl;
+			cout << "\t+++ Equal +++" << endl << endl;
 			break;
 		}
 	}
